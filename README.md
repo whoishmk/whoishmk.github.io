@@ -1,10 +1,10 @@
-# Less Gooooooooooooo
-
-We are on Baby ff
-
-[Github](github.com/whoishmk)
-
+<!DOCTYPE html>
 <html>
-  <p>Hehehehehe</p>
-  <a href = "https://heliopause.s3.us-east-1.amazonaws.com/1000_F_555528426_mfWt48TLEKtH9PskBvyPGqZrBXQG89Uh.jpg"> Hehe</a>
+  <head>
+    <title>Welcome to My Site</title>
+  </head>
+  <body>
+    <h1>Hello World!</h1>
+    <p>This is my GitHub Pages site.</p>
+  </body>
 </html>
